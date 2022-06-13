@@ -25,4 +25,6 @@ I'm a Software Developer 💻, studying computer science at Columbia University!
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
+## 📈 GitHub Stats 
+[![Ernest’s github stats](https://github-readme-stats.vercel.app/api?username=ernessttan)](https://github.com/ernessttan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernessttan&layout=compact)](https://github.com/ernessttan)
