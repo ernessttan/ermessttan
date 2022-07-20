@@ -1,10 +1,7 @@
-<h3 align="center">
-Hi there, I'm <a href="https://ernesttan.com/" target="_blank" rel="noreferrer">Ernest</a> 👋
+<h3>
+Hi there!👋 I'm <a href="https://ernesttan.com/" target="_blank" rel="noreferrer">Ernest</a> 
 </h3>
-
-<h2 align="center">
-I'm a Software Developer 💻, studying computer science at Columbia University!
-</h2> 
+<p>I am a Software Engineer, studying Computer Science at Columbia University.</p>
 
 ### 💼 Technical Skills
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
