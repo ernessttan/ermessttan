@@ -1,11 +1,9 @@
 ## Hi there!👋 I'm <a href="https://ernesttan.com/" target="_blank" rel="noreferrer">Ernest</a>
 <p>
-I am a Software Engineer, studying Computer Science at Columbia University.
+I am a Software Engineer at <a href="https://hyperspace.xyz/" target="_blank" rel="noreferrer">Hyperspace</a>
 
-Frontend development is what I love, I enjoy creating user experiences that are rich and easy to understand.
 
-- I am currently working on building the MVP of a stealth travel app!
-- I'm currently learning Node.js and how to use AWS tools
+- I am currently building a web development studio called <a href="https://bentostudios.dev/" target="_blank" rel="noreferrer">Bento Studios</a>
 - You can email me at: ernesttancw@gmail.com
 
 <h3>Find me also on:</h3>
